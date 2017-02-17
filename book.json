@@ -1,11 +1,18 @@
 {
 	"plugins": [
-        "duoshuo"
+        "duoshuo",
+		"prism",
+		"-highlight"
     ],
     "pluginsConfig": {
         "duoshuo": {
             "short_name": "xiaofeng365",
             "theme": "default"
-        }
+        },
+		"prism": {
+			"lang": {
+				"flow": "typescript"
+			}
+		}
     }
 }
