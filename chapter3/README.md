@@ -1,3 +1,5 @@
-# Introduction
+# MySQL规约
+
+主要关于建表、MySQL语句使用及字段命名的规约。
 
 chapter1/readme

@@ -1,3 +1,8 @@
-# Introduction
+# 异常日志
 
-chapter2/readme
+主要说明异常处理及日志输出的规约。
+
+
+
+
+

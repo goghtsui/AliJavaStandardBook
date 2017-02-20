@@ -1,3 +1,5 @@
-# Introduction
+# 工程规约
+
+主要关于应用分层、版本号以及服务期限相关的规约。
 
 chapter1/readme
